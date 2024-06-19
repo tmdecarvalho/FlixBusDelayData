@@ -1,0 +1,48 @@
+,Bus Number,First Stop,Destination,Planned Time,Observed Time,Trip Status,Previous Stop,Previous Stop Time,Observed Previous Stop,Duration,Trip Duration
+67,FlixBus • Bus N236,Bratislava (Mlynské Nivy busstation),Richting  Paris (Bercy Seine),12:45,12:43,Op tijd,Disneyland Paris - Chessy Sud,12:05,12:06,0:37:00,19:38:00
+68,FlixBus • Bus 793,Lisbon (Oriente),Richting  Paris (Bercy Seine),12:50,12:11,Op tijd,Poitiers Futuroscope (TGV Station),08:45,08:47,3:24:00,"1 day, 1:54:00"
+70,FlixBus • Bus 1752,Caen (Central busstation vlakbij SNCF station),Richting  Brussel Zuidstation (Gare du Midi),12:55,14:55,Vertraagd,Parijs (Luchthaven Orly),12:10,14:10,0:45:00,6:10:00
+69,FlixBus • Bus N74,Copenhagen Busterminal,Richting  Paris (Bercy Seine),12:55,14:08,Vertraagd,Keulen Bonn Airport,06:15,07:10,6:58:00,22:32:00
+71,FlixBus • Bus 1772,Vannes (Centraal busstation vlakbij het SNCF station),Richting  Paris (Bercy Seine),13:10,12:53,Op tijd,Laval,09:35,09:35,3:18:00,6:43:00
+72,FlixBus • Bus 714,Angers (Busstation),Richting  Paris (Bercy Seine),13:15,13:15,Op tijd,Le Mans (Université),10:25,10:22,2:53:00,4:00:00
+73,FlixBus • Bus N1305,"Warschau (Busstation Zachodnia, West)",Richting  Paris (Bercy Seine),13:30,13:56,Vertraagd,"Saarbrücken (Busstation, Dudweilerstraße)",08:30,09:01,4:55:00,23:46:00
+49,FlixBus • Bus 756,Parijs (Luchthaven Orly),Richting  Reims,13:35,13:35,Op tijd,Parijs (Luchthaven Orly),13:00,13:00,0:35:00,0:35:00
+50,FlixBus • Bus N1131,Murcia (Bus Station),Richting  Paris (Bercy Seine),13:40,14:01,Vertraagd,Chalon-sur-Saône,09:15,09:10,4:51:00,"1 day, 0:41:00"
+51,FlixBus • Bus N880,Zračna luka Zagreb,Richting  Paris (Bercy Seine),13:55,13:20,Op tijd,Straatsburg (Place de l'Étoile),07:50,07:48,5:32:00,20:00:00
+52,FlixBus • Bus 757,Brugge (Station),Richting  Paris (Bercy Seine),14:05,14:05,Op tijd,Parijs Luchthaven Charles de Gaulle (Roissypole -Terminal 3),13:15,13:22,0:43:00,4:25:00
+53,FlixBus • Bus N780,Berlijn (Busstation),Richting  Paris (Bercy Seine),14:10,14:11,Op tijd,Reims,12:20,12:22,1:49:00,16:49:00
+54,FlixBus • Bus 820,Maastricht (International Bus Station),Richting  Paris (Bercy Seine),14:15,14:16,Op tijd,Valenciennes (universiteiten),11:20,11:11,3:05:00,7:25:00
+55,FlixBus • Bus 790,"Saarbrücken (Busstation, Dudweilerstraße)",Richting  Tours (Parkeerplaats Les Peupliers),14:20,14:04,Op tijd,Metz (Centraal busstation),09:45,09:41,4:23:00,5:42:00
+56,FlixBus • Bus 1752,Brussel Zuidstation (Gare du Midi),Richting  Caen (Central busstation vlakbij SNCF station),14:25,14:25,Volgens schema,Brussel Zuidstation (Gare du Midi),10:25,10:25,4:00:00,4:00:00
+57,FlixBus • Bus 1614,Nantes (La Haluchère),Richting  Paris (Bercy Seine),14:30,14:23,Op tijd,Parijs - Massy-Palaiseau,13:40,13:35,0:48:00,5:12:00
+37,FlixBus • Bus 732,Le Havre (Busstation),Richting  Paris (Bercy Seine),14:35,14:53,Vertraagd,Paris La Défense (Terminal Jules Verne),13:40,13:43,1:10:00,3:20:00
+38,FlixBus • Bus 823,Eindhoven,Richting  Paris (Bercy Seine),14:40,15:28,Vertraagd,Brussel Noordstation (Gare du Nord),09:55,10:11,5:17:00,7:46:00
+39,FlixBus • Bus 1755,Parijs (Luchthaven Orly),Richting  Lille,14:50,14:39,Op tijd,Parijs (Luchthaven Orly),14:15,14:21,0:18:00,0:18:00
+40,FlixBus • Bus 803,Den Haag Centraal (Busstation),Richting  Paris (Bercy Seine),15:00,15:13,Vertraagd,Parijs Luchthaven Charles de Gaulle (Roissypole -Terminal 3),14:15,14:18,0:55:00,7:55:00
+41,FlixBus • Bus 774,Nantes (La Haluchère),Richting  Paris (Bercy Seine),15:20,14:31,Op tijd,Nantes (La Haluchère),10:30,10:33,3:58:00,3:58:00
+42,FlixBus • Bus N1152,Paris - Champigny-sur-Marne,Richting  Lisbon Sete Rios (Jardim Zoológico) (IC),15:25,15:32,Op tijd,Paris - Champigny-sur-Marne,15:05,15:01,0:31:00,0:31:00
+43,FlixBus • Bus N1151,Argenteuil,Richting  Figueira da Foz,15:25,15:25,Op tijd,Paris - Champigny-sur-Marne,14:40,14:40,0:45:00,2:10:00
+44,FlixBus • Bus 809,Amsterdam Sloterdijk,Richting  Paris (Bercy Seine),15:30,15:08,Op tijd,Lille,12:20,12:12,2:56:00,7:09:00
+45,FlixBus • Bus 709,"Grenoble (Centraal Station, Busstation)",Richting  Paris (Bercy Seine),15:30,15:17,Op tijd,"Lyon (Busstation, Perrache)",09:05,09:10,6:07:00,8:13:00
+30,FlixBus • Bus 1755,Lille,Richting  Parijs (Luchthaven Orly),16:05,16:06,Op tijd,Parijs Luchthaven Charles de Gaulle (Roissypole -Terminal 3),15:15,15:21,0:45:00,2:55:00
+16,FlixBus • Bus 1758,Reims,Richting  Paris (Bercy Seine),16:35,16:24,Op tijd,Reims,14:45,14:45,1:39:00,1:39:00
+17,FlixBus • Bus N770,Arnhem Centraal Station (Sonsbeekzijde),Richting  Paris (Bercy Seine),16:40,17:28,Vertraagd,Brussel Noordstation (Gare du Nord),11:25,11:39,5:49:00,9:21:00
+18,FlixBus • Bus 820,Bonn UN Campus (Museumsmeile),Richting  Paris (Bercy Seine),17:05,17:05,Volgens schema,Valenciennes (universiteiten),14:15,14:15,2:50:00,9:00:00
+19,FlixBus • Bus 800,Amsterdam Sloterdijk,Richting  Paris (Bercy Seine),17:30,17:37,Op tijd,Lille,14:20,14:12,3:25:00,7:50:00
+20,FlixBus • Bus 723,Rochefort,Richting  Parijs Luchthaven Charles de Gaulle (Roissypole -Terminal 3),17:30,17:30,Op tijd,Châtellerault,13:15,13:15,4:15:00,7:50:00
+0,FlixBus • Bus 807,Brussel Zuidstation (Gare du Midi),Richting  Paris (Bercy Seine),18:00,18:17,Vertraagd,Parijs Luchthaven Charles de Gaulle (Roissypole -Terminal 3),17:05,17:27,0:50:00,4:06:00
+2,FlixBus • Bus 180,"Essen (Centraal Station, Freiheit)",Richting  Paris (Bercy Seine),18:05,18:05,Geannuleerd,Reims,16:10,16:10,1:55:00,11:15:00
+1,FlixBus • Bus 754,Tours (Parkeerplaats Les Peupliers),Richting  Paris (Bercy Seine),18:05,18:15,Op tijd,Parijs (Luchthaven Orly),17:20,17:43,0:32:00,3:58:00
+3,FlixBus • Bus 700,London Victoria Coach Station,Richting  Paris (Bercy Seine),18:10,18:10,Volgens schema,Calais (P&O veer),14:35,14:35,3:35:00,10:10:00
+4,FlixBus • Bus 091,Budapest Népliget,Richting  Paris (Bercy Seine),18:20,18:20,Op tijd,Reims,16:30,16:30,1:50:00,20:59:00
+5,FlixBus • Bus 803,Amsterdam Sloterdijk,Richting  Paris (Bercy Seine),18:25,18:13,Op tijd,Parijs Luchthaven Charles de Gaulle (Roissypole -Terminal 3),17:25,17:19,0:54:00,9:23:00
+6,FlixBus • Bus 1755,Parijs (Luchthaven Orly),Richting  Lille,18:40,18:40,Op tijd,Parijs (Luchthaven Orly),18:00,18:00,0:40:00,0:40:00
+7,FlixBus • Bus 1774,Caen (Central busstation vlakbij SNCF station),Richting  Paris (Bercy Seine),18:45,18:34,Op tijd,Paris (Pont de Sèvres),17:55,17:51,0:43:00,3:23:00
+8,FlixBus • Bus 756,Reims,Richting  Paris (Bercy Seine),18:50,18:41,Op tijd,Reims,17:00,17:04,1:37:00,1:37:00
+9,FlixBus • Bus 806,Brussel Zuidstation (Gare du Midi),Richting  Paris (Bercy Seine),19:10,19:25,Vertraagd,Brussel Zuidstation (Gare du Midi),15:10,14:50,4:35:00,4:35:00
+10,FlixBus • Bus 822,Arnhem Centraal Station (Sonsbeekzijde),Richting  Parijs (Luchthaven Orly),19:35,20:11,Vertraagd,Brussel Noordstation (Gare du Nord),14:45,14:49,5:22:00,9:20:00
+12,Bus N1320D,"Warschau (Busstation Zachodnia, West)",Richting  Paris (Bercy Seine),19:45,20:16,Vertraagd,Bonn UN Campus (Museumsmeile),13:25,13:51,6:25:00,"1 day, 1:17:00"
+11,FlixBus • Bus N1320,"Warschau (Busstation Zachodnia, West)",Richting  Paris (Bercy Seine),19:45,19:46,Op tijd,Bonn UN Campus (Museumsmeile),13:25,13:44,6:02:00,"1 day, 0:36:00"
+13,FlixBus • Bus 800,Amsterdam Sloterdijk,Richting  Paris (Bercy Seine),19:45,20:25,Vertraagd,Lille,16:35,16:52,3:33:00,9:12:00
+14,FlixBus • Bus 479,Milaan (Busstation Lampugnano),Richting  Paris (Bercy Seine),19:55,10:33,Geannuleerd,Lausanne (P+R Vélodrome),12:50,12:50,"-1 day, 21:43:00",4:33:00
+15,FlixBus • Bus 090,"Frankfurt (Centraal Station, Main)",Richting  Paris (Bercy Seine),20:00,20:38,Vertraagd,Reims,18:10,18:53,1:45:00,8:38:00
